@@ -1,4 +1,5 @@
-Substitua os campos em placeholder, identificados entre colchetes, por informações contidas em sua base. 
+Substitua os campos em placeholder, identificados entre colchetes.
+Os campos são CNPJ, cidade, etc
 
  
  

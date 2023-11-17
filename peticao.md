@@ -1,4 +1,8 @@
-﻿**AO JUÍZO DA \_\_\_\_\_ VARA DA SUBSEÇÃO JUDICIÁRIA DE \_\_\_\_\_** 
+Substitua os campos em placeholder, identificados entre colchetes, por informações contidas em sua base. 
+
+ 
+ 
+ **AO JUÍZO DA \_\_\_\_\_ VARA DA SUBSEÇÃO JUDICIÁRIA DE \_\_\_\_\_** 
 
 
 

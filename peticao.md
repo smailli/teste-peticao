@@ -1,5 +1,4 @@
-Substitua os campos em placeholder, identificados entre colchetes.
-Os campos são CNPJ, cidade, etc
+Encontre no seu contexto o conteúdo dos campos CNPJ e endereço e substitua no texto abaixo:
 
  
  
